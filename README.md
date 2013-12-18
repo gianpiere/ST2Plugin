@@ -2,6 +2,7 @@ ST2Plugin
 =========
 
 Agregar el Plugin y su configuracion el el teclado es :
+
 { "keys": ["ctrl+shift+b"], "command": "open_browser","args": {"block":true,"url_basepath":"http://urlbase/"}}
 
 url_basepath : contiene la ruta base de tu web de desarrollo, usualmente seria [http://localhost/]
